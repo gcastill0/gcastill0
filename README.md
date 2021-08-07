@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 [Website](https://gcastill0.github.io)
 
-- 🔭 I’m currently working on a Terraform Pipelines 
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on a learning module for Azure Pipelines and Terraform Cloud 
+- 🌱 Also, there is a project to learn GraphQL
